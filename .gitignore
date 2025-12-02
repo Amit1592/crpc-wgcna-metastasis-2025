@@ -1,0 +1,20 @@
+# R session junk
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio project folder
+.Rproj.user/
+
+# Large data / intermediate results
+data/
+results/
+
+# GEO / platform raw dumps
+*.soft
+*.gz
+GSE*.txt
+
+# Logs etc
+*.log

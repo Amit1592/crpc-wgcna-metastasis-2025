@@ -26,3 +26,14 @@ crpc-wgcna-metastasis-2025/
 ├─ figures/                           # WGCNA figures (PNGs)
 ├─ docs/                              # Platform/lncRNA annotation tables
 └─ .gitignore                         # Excludes data/ and results/ from Git
+
+
+## How to cite
+
+If you use this code or figures in your work, please cite the accompanying article:
+
+Mehrabi T, Heidarzadeh R, *et al.* (2025). Dysregulated key long non-coding RNAs TP53TG1, RFPL1S, DLEU1 in prostate cancer. *Advances in Cancer Biology – Metastasis* 13:100132.
+
+When the Zenodo record is available, you can also cite the code repository:
+
+> Heidarzadeh R. (2025). **CRPC WGCNA metastasis 2025**: analysis scripts and key WGCNA figures for GSE74685. Zenodo. DOI: `10.5281/zenodo.XXXXXXX`

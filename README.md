@@ -36,4 +36,4 @@ Mehrabi T, Heidarzadeh R, *et al.* (2025). Dysregulated key long non-coding RNAs
 
 When the Zenodo record is available, you can also cite the code repository:
 
-> Heidarzadeh R. (2025). **CRPC WGCNA metastasis 2025**: analysis scripts and key WGCNA figures for GSE74685. Zenodo. DOI: `10.5281/zenodo.XXXXXXX`
+> T. Mehrabi, R. Heidarzadehpilehrood, M. Mobasheri, T. Sobati, M. Heshmati, and M. Pirhoushiaran, “Dysregulated key long non-coding RNAs TP53TG1, RFPL1S, DLEU1, and HCG4 associated with epithelial-mesenchymal transition (EMT) in castration-resistant prostate cancer,” Advances in Cancer Biology - Metastasis, vol. 13, p. 100132, Jan. 2025, doi: 10.1016/j.adcanc.2025.100132.

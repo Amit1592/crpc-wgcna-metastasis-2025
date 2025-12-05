@@ -16,5 +16,22 @@ results/
 *.gz
 GSE*.txt
 
-# Logs etc
+# R data objects
+*.rds
+*.Rds
+*.RDS
+*.RData
+
+# Big GPL / annotation tables
+docs/*_GPL*.csv
+docs/*annotation*.csv
+
+# Logs / temp
 *.log
+*.tmp
+*.bak
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
